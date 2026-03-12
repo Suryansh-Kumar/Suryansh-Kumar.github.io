@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # impressingCrush
 link mobile.js instead of script.js in index.html to work in mobile.
 
@@ -5,3 +6,6 @@ link mobile.js instead of script.js in index.html to work in mobile.
 
 
 Thanks and Happy Coding.
+=======
+# Suryansh-Kumar.github.io
+>>>>>>> 224efe9d37fb780c97214f118273534e18d95acf
